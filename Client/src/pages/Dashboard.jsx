@@ -188,7 +188,7 @@ const Dashboard = () => {
                 <input type="file" hidden id="resume-input" accept=".pdf" onChange={(e) => setResume(e.target.files[0])} />
               </div>
               <button disabled={isLoading} className="w-full py-2 bg-green-600 text-white rounded hover:bg-green-700 transition-colors
-              fles items-center justify-center gap-2">
+              flex items-center justify-center gap-2">
                 {isLoading && <LoaderCircleIcon className="animate-spin text-white size-4" />}
                 {isLoading ? "Uploading..." : " Upload Resume"}
               </button>
