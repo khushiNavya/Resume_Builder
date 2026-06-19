@@ -24,8 +24,7 @@ This project helps job seekers create professional, industry-standard resumes by
 
 ---
 
-## ✍️ Builder Dashboard
-![Dashboard](Screenshots/FullResumeView.png)
+
 
 ---
 
