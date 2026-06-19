@@ -22,11 +22,6 @@ This project helps job seekers create professional, industry-standard resumes by
 ## 🎨 Ai Enhancement
 ![Templates](Screenshots/AiEnhance.png)
 
----
-
-
-
----
 
 ## 📄 Existing Preview
 ![Preview](Screenshots/ExistingPreview.png)
